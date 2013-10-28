@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "controller"
   spec.version       = Controller::VERSION
   spec.authors       = ["Sudhir Jonathan"]
-  spec.email         = ["sudhir.j@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.email         = ["sudhir.j@runway7.net"]
+  spec.description   = %q{Control you AWS deployment from any command line}
+  spec.summary       = %q{Control you AWS deployment from any command line}
   spec.homepage      = ""
   spec.license       = "MIT"
 
